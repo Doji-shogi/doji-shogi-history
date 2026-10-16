@@ -21,6 +21,7 @@ Later
 　現在の方式へ発展
 
 Notes
+
 This record was created using an early version of the rules.
 
 The rules used in 2023 differ in some respects from the current version.
@@ -28,6 +29,7 @@ The rules used in 2023 differ in some respects from the current version.
 The names North Army and South Army originated from the seating positions of the players.
 
 注記
+
 この記録は、初期バージョンのルールに基づいて作成されました。
 
 2023年当時に適用されていたルールは、現行のルールとは一部異なります。
