@@ -43,7 +43,6 @@ The original game record (Excel format) used in the 2023 human-play experiment i
 2023年の人間対局実験で用いた原本棋譜（Excel形式）を保存しています。
 
 ーーーーーーーーーーーーーーーーーー
-<img width="4032" height="1890" alt="image" src="https://github.com/user-attachments/assets/21f1985d-b499-4a3e-aa0a-b39b63bee4df" />
 
 同時手番将棋　現行仕様書
 
