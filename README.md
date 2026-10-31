@@ -44,7 +44,8 @@ The original game record (Excel format) used in the 2023 human-play experiment i
 
 ーーーーーーーーーーーーーーーーーー
 
-同時手番将棋　現行仕様書
+同時手番将棋　現行仕様書　H３ルール　
+（H3 Rule Set)
 
 1. 概要
    
